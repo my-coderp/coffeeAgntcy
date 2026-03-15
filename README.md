@@ -7,6 +7,7 @@
 
 **CoffeeAgntcy** is a reference implementation based on a fictitious coffee company to help developers understand how
 components in the **AGNTCY Internet of Agents** ecosystem can work together.
+https://docs.agntcy.org/coffee-agntcy/get-started/
 
 It gives examples of the components of AGNTCY working together as a **Multi-agent System (MAS)**.
 
